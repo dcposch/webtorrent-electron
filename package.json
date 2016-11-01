@@ -1,0 +1,22 @@
+{
+  "name": "webtorrent-electron",
+  "version": "0.0.0",
+  "description": "WebTorrent Electron Process",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcposch/webtorrent-electron.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dcposch/webtorrent-electron/issues"
+  },
+  "homepage": "https://github.com/dcposch/webtorrent-electron#readme",
+  "devDependencies": {
+    "standard": "^8.5.0"
+  }
+}
